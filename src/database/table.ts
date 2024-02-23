@@ -1,0 +1,7 @@
+export const ROLES = 'roles'
+export const USERS = 'users'
+export const USER_DETAILS = 'user_details'
+export const CATEGORYS = 'categorys'
+export const PRODUCT = 'product'
+export const PRODUCT_DETAILS = 'product_details'
+export const REVIWERS = 'reviwers'
